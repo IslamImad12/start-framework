@@ -1,0 +1,43 @@
+.back {
+    background-color: #1abc9c;
+}
+.cent {
+    position: relative;
+    top: 50px;
+    left: 40%;
+}
+.start {
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 60px;
+}
+.start2 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 90px;
+}
+.line {
+    background-color: white;
+    height: 3px;
+    width: 90px;
+    margin: 5px;
+}
+.lineParent {
+    position: relative;
+    top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.modal-content {
+    background-color: transparent !important;
+}
+.social {
+    border-radius: 50%;
+    border: 2px solid white;
+}

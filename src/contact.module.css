@@ -1,0 +1,54 @@
+body {
+    /* background-color: white !important; */
+}
+.cent {
+    position: relative;
+    top: 50px;
+    left: 40%;
+}
+.start {
+    color: #2c3e50;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 60px;
+}
+.start2 {
+    color: #2c3e50;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 90px;
+}
+.line {
+    background-color: #2c3e50;
+    height: 3px;
+    width: 90px;
+    margin: 5px;
+}
+.lineParent {
+    position: relative;
+    top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2c3e50;
+}
+.modal-content {
+    background-color: transparent !important;
+}
+.active[_ngcontent-gki-c20] {
+    background-color: var(--main-color) !important;
+}
+.bg
+{
+    background-color: rgb(228, 75, 9);
+    border-radius: 10px;
+}
+.links
+{
+    text-decoration: none;
+    margin: 0 7px;
+    padding: 5px;
+    color: white;
+}
